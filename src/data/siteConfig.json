@@ -1,0 +1,393 @@
+{
+  "clinicInfo": {
+    "name": "CARE PHYSIOTHERAPY CLINIC",
+    "tagline": "Advanced Spine Care & Physical Rehabilitation Center",
+    "phone1": "+91 98765 43210",
+    "phone2": "+91 98765 01234",
+    "whatsapp": "+919876543210",
+    "address": "Suite 402, Healing Touch Medical Complex, Main Healthcare Avenue, Sector 14, City Center",
+    "googleMapsUrl": "https://maps.google.com/?q=Physiotherapy+Clinic",
+    "timings": {
+      "weekdays": "8:00 AM - 8:00 PM (Mon - Sat)",
+      "sunday": "9:00 AM - 1:00 PM (Prior Appointment)",
+      "lunchBreak": "1:30 PM - 2:30 PM",
+      "emergencyStatus": "Available for Home Visit & Emergency Care"
+    },
+    "stats": [
+      { "value": "1500+", "label": "Happy Patients" },
+      { "value": "14+", "label": "Years Experience" },
+      { "value": "15+", "label": "Clinical Treatments" },
+      { "value": "99%", "label": "Success Rate" }
+    ]
+  },
+
+  "seoSettings": {
+    "metaTitle": "CARE PHYSIOTHERAPY CLINIC - Dr. Rajan Patel Spine & Rehab",
+    "metaDescription": "Professional physiotherapy and physical rehabilitation care by Dr. Rajan Patel for back pain, slip disc, knee arthritis, and sports injuries.",
+    "keywords": "physiotherapy, Dr Rajan Patel, spine clinic, back pain relief, joint rehab, sports injury therapist, manual therapy"
+  },
+
+  "aboutSection": {
+    "title": "About CARE PHYSIOTHERAPY CLINIC",
+    "subtitle": "Dedicated to non-surgical physical healing and sustainable pain relief.",
+    "description": "At Care Physiotherapy Clinic, Dr. Rajan Patel combines advanced biomechanical assessment with hands-on manual therapy and electro-physical modalities. Our goal is to address the root cause of your pain rather than just masking symptoms.",
+    "highlights": [
+      "Evidence-based clinical protocols",
+      "Comprehensive digital posture analysis",
+      "Hands-on manual therapy & dry needling",
+      "Post-surgical spinal & joint rehabilitation",
+      "Home visit services available for urgent care"
+    ]
+  },
+
+  "doctors": [
+    {
+      "id": "doc-1",
+      "name": "Dr. Rajan V. Patel",
+      "designation": "Chief Physiotherapist & Spine Specialist",
+      "qualification": "MPT (Orthopedics), BPT, Certified Manual Therapist",
+      "experience": "14+ Years Experience",
+      "photo": "/assets/lead_doctor.jpg",
+      "bio": "Specializes in complex spinal disc rehab, posture correction, sciatica relief, and dry needling pain therapy.",
+      "phone": "+91 98765 43210",
+      "whatsapp": "+919876543210",
+      "isLead": true,
+      "expertise": ["Spine Decompression", "Dry Needling", "Sciatica Care", "Postural Alignment"]
+    }
+  ],
+
+  "services": [
+    {
+      "id": "srv-1",
+      "title": "Spine & Back Care Therapy",
+      "shortDesc": "Specialized non-surgical treatment for Slip Disc, Sciatica, and Lumbar Spondylosis.",
+      "details": "Combines spinal decompression, core muscle stabilization, and ergonomic correction to relieve nerve pressure.",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "id": "srv-2",
+      "title": "Joint & Knee Pain Rehab",
+      "shortDesc": "Effective management for Knee Osteoarthritis, Frozen Shoulder, and Hip Pain.",
+      "details": "Joint lubrication exercises, mobilization techniques, and quad strengthening to restore pain-free walking.",
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "id": "srv-3",
+      "title": "Dry Needling Therapy",
+      "shortDesc": "Targeted insertion of hair-thin needles to release deep muscle knots and trigger points.",
+      "details": "Immediately relaxes cramping muscle fibers, reduces localized inflammation, and improves blood flow.",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "id": "srv-4",
+      "title": "Chiropractic & Spinal Alignment",
+      "shortDesc": "Precise manual adjustments to restore spinal vertebral alignment and joint mobility.",
+      "details": "Relieves neck stiffness, tension headaches, and structural imbalances caused by sedentary posture.",
+      "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "id": "srv-5",
+      "title": "Sports Injury Rehabilitation",
+      "shortDesc": "Comprehensive care for ligament tears, ankle sprains, muscle pulls, and tennis elbow.",
+      "details": "Accelerated recovery protocols incorporating IASTM tools, laser therapy, and sport-specific reconditioning.",
+      "image": "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "id": "srv-6",
+      "title": "Neurological & Stroke Care",
+      "shortDesc": "Targeted physical therapy for paralysis, stroke recovery, and gait training.",
+      "details": "Focuses on neuro-plasticity, balance training on parallel bars, and building daily independence.",
+      "image": "https://images.unsplash.com/photo-1581056771107-24ca5f033842?auto=format&fit=crop&q=80&w=800"
+    }
+  ],
+
+  "gallery": [
+    {
+      "id": "gal-0",
+      "title": "Clinic Signboard & Main Entrance",
+      "mediaUrl": "/assets/clinic_entrance.jpg",
+      "description": "Main entrance of CARE PHYSIOTHERAPY CLINIC with Gujarati signboard."
+    },
+    {
+      "id": "gal-1",
+      "title": "Reception & Patient Waiting Area",
+      "mediaUrl": "/assets/gallery_reception.png",
+      "description": "Front reception desk with clinic logo clock and comfortable waiting bench."
+    },
+    {
+      "id": "gal-2",
+      "title": "Doctor Consultation & Doctor Desk",
+      "mediaUrl": "/assets/gallery_doctor_desk.png",
+      "description": "Dr. Rajan V. Patel's consultation desk and examination suite."
+    },
+    {
+      "id": "gal-3",
+      "title": "Electrotherapy & Treatment Beds",
+      "mediaUrl": "/assets/gallery_treatment_beds.png",
+      "description": "Multi-station electrotherapy, TENS/IFT units, and heat therapy beds."
+    },
+    {
+      "id": "gal-4",
+      "title": "Private Treatment Cubicles",
+      "mediaUrl": "/assets/gallery_curtain_cubicles.png",
+      "description": "Secluded therapy cubicles with privacy curtains and tactile walkway."
+    },
+    {
+      "id": "gal-5",
+      "title": "Exercise & Rehabilitation Gym",
+      "mediaUrl": "/assets/gallery_exercise_rehab.png",
+      "description": "Gait training parallel bars, rehabilitation ramp, shoulder wheel, and weights."
+    }
+  ],
+
+  "reviews": [
+    {
+      "id": "rev-1",
+      "patientName": "Sanjay Malhotra",
+      "rating": 5,
+      "date": "2026-09-28",
+      "treatment": "L4-L5 Slip Disc Recovery",
+      "comment": "I was suffering from severe sciatica pain down my leg. Dr. Rajan Patel's spine decompression and manual therapy gave me complete relief without surgery!",
+      "verified": true
+    },
+    {
+      "id": "rev-2",
+      "patientName": "Meenakshi Sundaram",
+      "rating": 5,
+      "date": "2026-10-01",
+      "treatment": "Frozen Shoulder Therapy",
+      "comment": "Could not lift my arm past shoulder level for months. After 10 sessions here at Care Physiotherapy Clinic, my range of motion is back to normal. Best clinic!",
+      "verified": true
+    },
+    {
+      "id": "rev-3",
+      "patientName": "Rohan Verma",
+      "rating": 5,
+      "date": "2026-10-04",
+      "treatment": "ACL Injury Rehab",
+      "comment": "Very professional and systematic approach. Dr. Rajan Patel helped me regain full knee strength to return to sports in record time.",
+      "verified": true
+    },
+    {
+      "id": "rev-4",
+      "patientName": "Kavita Deshmukh",
+      "rating": 5,
+      "date": "2026-10-05",
+      "treatment": "Knee Osteoarthritis Care",
+      "comment": "Dr. Rajan Patel is extremely patient and caring. I can walk up the stairs comfortably now without pain.",
+      "verified": true
+    },
+    {
+      "id": "rev-5",
+      "patientName": "Amitabh Joshi",
+      "rating": 5,
+      "date": "2026-09-20",
+      "treatment": "Cervical Neck Stiffness",
+      "comment": "Desk work caused severe headaches and neck spasms. The posture correction and dry needling therapy worked wonders!",
+      "verified": true
+    },
+    {
+      "id": "rev-6",
+      "patientName": "Pooja Hegde",
+      "rating": 5,
+      "date": "2026-09-18",
+      "treatment": "Post-Op Knee Replacement",
+      "comment": "Surgeon recommended CARE PHYSIOTHERAPY CLINIC for rehabilitation. Excellent guidance by Dr. Rajan Patel.",
+      "verified": true
+    },
+    {
+      "id": "rev-7",
+      "patientName": "Rajeshwari Iyer",
+      "rating": 5,
+      "date": "2026-09-14",
+      "treatment": "Lumbar Spondylosis",
+      "comment": "Extremely hygienic clinic with friendly doctor. My chronic lower back stiffness has completely vanished.",
+      "verified": true
+    },
+    {
+      "id": "rev-8",
+      "patientName": "Dinesh Chawla",
+      "rating": 5,
+      "date": "2026-09-10",
+      "treatment": "Tennis Elbow Rehab",
+      "comment": "Laser therapy combined with therapeutic exercises cured my elbow tendonitis in just 2 weeks.",
+      "verified": true
+    },
+    {
+      "id": "rev-9",
+      "patientName": "Sunita Aggarwal",
+      "rating": 5,
+      "date": "2026-09-08",
+      "treatment": "Sciatica Nerve Compression",
+      "comment": "I couldn't stand for long due to leg pain. Today I can walk comfortably thanks to Dr. Rajan Patel.",
+      "verified": true
+    },
+    {
+      "id": "rev-10",
+      "patientName": "Vikas Patel",
+      "rating": 5,
+      "date": "2026-09-02",
+      "treatment": "Ankle Ligament Sprain",
+      "comment": "Prompt home visit and clinic mobilization sessions. Regained full mobility quickly!",
+      "verified": true
+    },
+    {
+      "id": "rev-11",
+      "patientName": "Nalini Sen",
+      "rating": 5,
+      "date": "2026-08-29",
+      "treatment": "Parkinson's Mobility Training",
+      "comment": "The neuro rehabilitation therapy has greatly improved my father's walking balance and daily confidence.",
+      "verified": true
+    },
+    {
+      "id": "rev-12",
+      "patientName": "Harish Nambiar",
+      "rating": 5,
+      "date": "2026-08-25",
+      "treatment": "Spinal Traction Therapy",
+      "comment": "State-of-the-art spinal decompression unit. Clean environment and polite doctor.",
+      "verified": true
+    },
+    {
+      "id": "rev-13",
+      "patientName": "Swati Mukherjee",
+      "rating": 5,
+      "date": "2026-08-20",
+      "treatment": "Postural Alignment & Ergonomics",
+      "comment": "Dr. Rajan Patel evaluated my workstation setup and provided targeted upper back strengthening exercises.",
+      "verified": true
+    },
+    {
+      "id": "rev-14",
+      "patientName": "Gaurav Kapoor",
+      "rating": 5,
+      "date": "2026-08-15",
+      "treatment": "Rotator Cuff Tendonitis",
+      "comment": "Gentle mobilization and laser therapy relieved my shoulder catching pain completely.",
+      "verified": true
+    },
+    {
+      "id": "rev-15",
+      "patientName": "Bhavna Trivedi",
+      "rating": 5,
+      "date": "2026-08-10",
+      "treatment": "Bell's Palsy Facial Physio",
+      "comment": "Facial muscle stimulation and exercises helped me recover facial movement fully within 4 weeks.",
+      "verified": true
+    }
+  ],
+
+  "blogs": [
+    {
+      "id": "blog-1",
+      "title": "5 Essential Ergonomic Tips to Eliminate Lower Back Pain While Working at a Desk",
+      "category": "Posture & Ergonomics",
+      "author": "Dr. Rajan V. Patel",
+      "date": "2026-10-02",
+      "readTime": "5 min read",
+      "thumbnail": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=800",
+      "excerpt": "Prolonged desk sitting strains your lumbar spine and compresses intervertebral discs. Learn simple monitor adjustments, lumbar support hacks, and micro-stretch routines.",
+      "content": "Lower back stiffness and disc strain are among the most common complaints of working professionals. When you sit for extended periods, intradiscal pressure in your lumbar region increases by over 40% compared to standing.\n\n### 1. Monitor Height at Eye Level\nPosition your computer screen so the top third of the monitor is directly at eye level. This prevents forward head posture (Tech Neck), which places up to 27 kg of extra mechanical load on your cervical spine.\n\n### 2. Lumbar Curve Support\nEnsure your lower back maintains its natural inward lordotic curve. Use a dedicated ergonomic chair or place a lumbar support roll at the small of your back.\n\n### 3. The 90-Degree Joint Rule\nAdjust your chair height so your knees are bent at a 90-degree angle with feet resting flat on the floor or on a footrest. Avoid crossing your legs as it rotates the pelvis abnormally.\n\n### 4. Micro-Break Movement Protocol\nEvery 45 minutes, stand up and perform 5 gentle standing back extensions (McKenzie extension technique) to decompress the intervertebral discs.\n\n### 5. Hydration and Core Stability\nDisc hydration depends on spinal movement and adequate fluid intake. Pair regular water intake with daily core stabilization exercises like pelvic tilts and bird-dogs."
+    },
+    {
+      "id": "blog-2",
+      "title": "Understanding Knee Osteoarthritis: How Physiotherapy Helps Avoid Knee Surgery",
+      "category": "Joint Rehab",
+      "author": "Dr. Rajan V. Patel",
+      "date": "2026-09-28",
+      "readTime": "6 min read",
+      "thumbnail": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=800",
+      "excerpt": "Knee joint stiffness and crepitus can be effectively managed without immediate surgery. Discover targeted quadriceps strengthening, patellar mobilization, and gait re-training.",
+      "content": "Knee Osteoarthritis (OA) is a progressive wear-and-tear condition of the articular cartilage. However, joint degeneration does not mean immediate knee replacement surgery is your only option.\n\n### The Role of Conservative Physical Rehabilitation\nTargeted physiotherapy strengthens the surrounding knee muscular envelope—specifically the VASTUS MEDIALIS OBLIQUE (VMO)—to absorb shock during walking and reduce direct pressure on the joint cartilage.\n\n### Key Therapeutic Interventions at CARE PHYSIOTHERAPY CLINIC:\n1. **Quadriceps & Hamstring Strengthening**: Isometric straight leg raises and closed kinetic chain exercises to stabilize patellar tracking.\n2. **Joint Mobilization**: Manual therapy techniques to improve synovial fluid circulation and reduce joint stiffness.\n3. **Electro-Physical Modalities**: Laser therapy and IFT (Interferential Therapy) to relieve localized inflammation.\n4. **Weight Management & Gait Correction**: Customized biomechanical foot orthotics and gait adjustments to balance joint loading.\n\nConsistent clinical rehabilitation combined with structured home exercise routines significantly delays or eliminates the need for surgical knee replacement."
+    },
+    {
+      "id": "blog-3",
+      "title": "Sciatica Pain Relief: Symptoms, Causes, and 4 Effective Decompression Exercises",
+      "category": "Spine Care",
+      "author": "Dr. Rajan V. Patel",
+      "date": "2026-09-22",
+      "readTime": "7 min read",
+      "thumbnail": "https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&q=80&w=800",
+      "excerpt": "Sciatica is sharp shooting pain traveling from the lower back down the sciatic nerve into the leg. Explore non-invasive nerve flossing and spinal decompression techniques.",
+      "content": "Sciatica occurs when the sciatic nerve—the longest nerve in the human body—becomes compressed or irritated due to herniated L4-L5/L5-S1 discs, spinal stenosis, or piriformis muscle spasm.\n\n### Common Sciatica Symptoms:\n- Radiating pain from the buttocks down the thigh into the calf or foot.\n- Numbness, tingling, or electrical shock sensations.\n- Weakness in ankle or foot movement (foot drop in severe cases).\n\n### 4 Clinical Exercises for Sciatic Nerve Decompression:\n1. **Prone Press-Ups (McKenzie Method)**: Lie on your stomach and gently push your upper body up with hands, keeping hips relaxed on the floor to centralize disc herniations.\n2. **Sciatic Nerve Glide (Flossing)**: Sit upright on a chair, straighten one leg while flexing the ankle towards you, and tilt your head back gently to release nerve entrapment.\n3. **Pigeon Stretch / Piriformis Release**: Cross the affected leg over the opposite knee and lean forward gently to release muscle tightness around the sciatic notch.\n4. **Pelvic Bridging**: Lie on your back with knees bent and lift your hips to build lumbar spine stability.\n\n*Note: If you experience severe weakness or bladder control issues, seek urgent clinical evaluation immediately.*"
+    },
+    {
+      "id": "blog-4",
+      "title": "Frozen Shoulder (Adhesive Capsulitis): Stages and Step-by-Step Recovery Protocol",
+      "category": "Shoulder Rehab",
+      "author": "Dr. Rajan V. Patel",
+      "date": "2026-09-18",
+      "readTime": "6 min read",
+      "thumbnail": "https://images.unsplash.com/photo-1581056771107-24ca5f033842?auto=format&fit=crop&q=80&w=800",
+      "excerpt": "Frozen shoulder causes progressive pain and restricted shoulder movement. Understand the 3 clinical stages and specialized shoulder joint mobilization techniques.",
+      "content": "Adhesive Capsulitis (Frozen Shoulder) occurs when the connective tissue capsule surrounding the shoulder joint becomes inflamed, thickened, and tight, severely restricting active and passive arm movement.\n\n### The 3 Clinical Stages of Frozen Shoulder:\n1. **Freezing Stage (2 to 9 months)**: Sharp severe shoulder pain, especially at night, with gradual loss of mobility.\n2. **Frozen Stage (4 to 12 months)**: Pain may diminish slightly, but shoulder stiffness becomes severe, limiting daily activities like combing hair or reaching behind.\n3. **Thawing Stage (6 to 24 months)**: Shoulder mobility slowly begins to improve as joint capsule flexibility restores.\n\n### Targeted Physiotherapy Treatment Plan:\n- **Passive Joint Distraction & Mobilization**: Gentle capsular stretching by a trained manual therapist.\n- **Codman's Pendulum Exercises**: Using gravity to gently oscillate the arm without shoulder muscle tension.\n- **Shoulder Wheel & Finger Ladder Exercises**: Gradually pushing joint range limits in elevation and rotation.\n- **Moist Heat & Ultrasonic Therapy**: Relaxing tight rotator cuff tendons prior to stretching sessions."
+    },
+    {
+      "id": "blog-5",
+      "title": "Cervical Spondylosis & Tech Neck: Causes, Posture Fixes, and Neck Pain Relief",
+      "category": "Neck & Spine",
+      "author": "Dr. Rajan V. Patel",
+      "date": "2026-09-12",
+      "readTime": "5 min read",
+      "thumbnail": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&q=80&w=800",
+      "excerpt": "Excessive smartphone tilt causes severe cervical spine degeneration and neck spasms. Discover chin tuck exercises and cervical spine care protocols.",
+      "content": "Looking down at smartphone screens tilted at 60 degrees places up to 27 kilograms of continuous mechanical stress on your cervical neck vertebrae. Over time, this leads to early-onset cervical spondylosis, neck spasms, and tension headaches.\n\n### Symptoms of Cervical Spondylosis:\n- Persistent neck stiffness and aching upper back muscles.\n- Radiating tingling or weakness down the shoulders and arms.\n- Tension headaches starting at the base of the skull.\n\n### 3 Quick Posture Correction Exercises:\n1. **Chin Tucks (Cervical Retraction)**: Sit upright, look straight ahead, and pull your chin directly backward as if making a double chin. Hold for 5 seconds and repeat 10 times.\n2. **Scapular Squeezes**: Pull your shoulder blades together and downward, holding for 5 seconds to strengthen weak upper back postural muscles.\n3. **Cervical Isometric Neck Press**: Press your hand against your forehead while resisting with your neck muscles without bending your neck.\n\nAt CARE PHYSIOTHERAPY CLINIC, we utilize gentle manual traction and cervical stabilization to restore neck curve and eliminate chronic pain."
+    },
+    {
+      "id": "blog-6",
+      "title": "Post-Surgical Knee & Hip Rehabilitation: What to Expect in the First 6 Weeks",
+      "category": "Surgical Rehab",
+      "author": "Dr. Rajan V. Patel",
+      "date": "2026-09-05",
+      "readTime": "7 min read",
+      "thumbnail": "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&q=80&w=800",
+      "excerpt": "A successful joint replacement surgery depends heavily on structured post-op physiotherapy. Learn week-by-week rehabilitation goals for knee and hip replacements.",
+      "content": "A successful total knee replacement (TKR) or hip replacement (THR) depends 50% on surgical precision and 50% on rigorous, guided physical rehabilitation.\n\n### Timeline of Post-Operative Physiotherapy:\n\n#### Week 1 to 2: Early Circulation & Joint Protection\n- Focus on swelling control using cryotherapy and elevated ankle pumps.\n- Gentle passive knee flexion up to 90 degrees.\n- Assisted standing and gait training with a walker.\n\n#### Week 3 to 4: Muscle Activation & Independence\n- Transition from walker to elbow crutches or walking stick.\n- Strengthening quad sets, heel slides, and active straight leg raises.\n- Achieving 100-110 degrees knee flexion for comfortable stair climbing.\n\n#### Week 5 to 6: Advanced Balance & Functional Mobility\n- Unassisted walking with corrected stride pattern.\n- Stationary cycling and leg press exercises.\n- Proprioception and balance board drills for full confidence in daily activities.\n\n*Our clinical team provides customized home visit physiotherapy and clinic sessions for post-op patients.*"
+    },
+    {
+      "id": "blog-7",
+      "title": "Dry Needling Therapy vs. Traditional Acupuncture: How It Relieves Muscle Knots",
+      "category": "Advanced Pain Therapy",
+      "author": "Dr. Rajan V. Patel",
+      "date": "2026-08-30",
+      "readTime": "5 min read",
+      "thumbnail": "https://images.unsplash.com/photo-1512290900676-26c2a6a095ae?auto=format&fit=crop&q=80&w=800",
+      "excerpt": "Dry needling targets myofascial trigger points to release chronic muscle tightness. Understand how it differs from traditional acupuncture and its clinical benefits.",
+      "content": "Dry Needling is a modern, science-based intervention used by trained physical therapists to treat neuromuscular pain and myofascial trigger points (painful muscle knots).\n\n### Dry Needling vs. Acupuncture: What's the Difference?\n- **Acupuncture**: Based on traditional Chinese medicine principles targeting energy meridians (Qi) to balance bodily energy.\n- **Dry Needling**: Based on Western neuroanatomy and biomechanical evidence. Ultra-thin sterile needles are inserted directly into hyper-irritable muscle knots to elicit a Local Twitch Response (LTR).\n\n### Benefits of Clinical Dry Needling:\n1. **Immediate Release of Muscle Spasms**: Deactivates tight band muscle fibers in upper trapezius, gluteal, and calf muscles.\n2. **Improved Blood Flow**: Increases micro-circulation to oxygen-deprived tissue.\n3. **Pain Signal Interruption**: Triggers endorphin release and resets faulty nerve signals.\n4. **Accelerated Recovery**: Speeds up rehabilitation when combined with stretching and corrective exercises."
+    },
+    {
+      "id": "blog-8",
+      "title": "Slip Disc (L4-L5 / L5-S1) Recovery Without Surgery: Non-Invasive Clinical Decompression",
+      "category": "Spine Care",
+      "author": "Dr. Rajan V. Patel",
+      "date": "2026-08-22",
+      "readTime": "6 min read",
+      "thumbnail": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&q=80&w=800",
+      "excerpt": "Over 90% of lumbar disc herniations can heal without spine surgery. Discover mechanical decompression, core stabilization, and manual therapy techniques.",
+      "content": "A herniated or slipped disc at L4-L5 or L5-S1 occurs when the inner gel-like nucleus pulposus pushes through the tough outer annulus fibrosus ring, compressing adjacent spinal nerve roots.\n\n### Clinical Evidence for Non-Surgical Healing:\nClinical research confirms that over 90% of lumbar disc protrusions undergo spontaneous resorption and healing when supported by targeted physical therapy and spinal traction.\n\n### Non-Surgical Treatment Protocol at CARE PHYSIOTHERAPY CLINIC:\n1. **Mechanical Lumbar Traction**: Gentle computer-controlled pulling force that creates negative pressure within the intervertebral disc, retracting the herniated gel away from nerve roots.\n2. **McKenzie Extension Therapy**: Centralizes radiating pain back into the spine.\n3. **Deep Core Stabilization (Transverse Abdominis Activation)**: Creating a natural muscular lumbar corset to protect discs during movements.\n4. **Ergonomic & Postural Re-Education**: Training proper lifting mechanics to avoid lumbar flexion under heavy load."
+    },
+    {
+      "id": "blog-9",
+      "title": "Preventing Sports Injuries: Dynamic Warm-Ups, Ligament Protection & Recovery Protocols",
+      "category": "Sports Injury",
+      "author": "Dr. Rajan V. Patel",
+      "date": "2026-08-15",
+      "readTime": "5 min read",
+      "thumbnail": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&q=80&w=800",
+      "excerpt": "ACL tears, hamstring strains, and ankle sprains can be prevented with proper neuromuscular preparation. Learn pre-workout warm-ups and post-workout recovery routines.",
+      "content": "Whether you are a competitive athlete or weekend sports enthusiast, sports injuries like ACL tears, ankle ligament sprains, and hamstring pulls severely derail physical fitness.\n\n### 3 Golden Rules of Injury Prevention:\n\n#### 1. Dynamic Warm-Up Over Static Stretching\nBefore activity, perform dynamic movements (high knees, leg swings, walking lunges) for 10 minutes. Static stretching cold muscles actually decreases explosive power and increases tear risks.\n\n#### 2. Agility & Neuromuscular Proprioception\nSingle-leg balance drills and plyometric landing practice train your joint mechanoreceptors to stabilize your knee and ankle automatically during sudden turns.\n\n#### 3. Post-Workout Active Recovery\nPair static stretching post-workout with foam rolling and contrast bath therapy to clear lactic acid buildup and reduce delayed onset muscle soreness (DOMS)."
+    },
+    {
+      "id": "blog-10",
+      "title": "Geriatric Mobility & Balance Training: Preventing Fall Risks in Elderly Patients",
+      "category": "Senior Care",
+      "author": "Dr. Rajan V. Patel",
+      "date": "2026-08-08",
+      "readTime": "6 min read",
+      "thumbnail": "https://images.unsplash.com/photo-1576765608535-5f04d1e3f289?auto=format&fit=crop&q=80&w=800",
+      "excerpt": "Falls are a major health risk for senior citizens leading to hip fractures. Explore geriatric physical therapy exercises to build leg strength and confidence.",
+      "content": "For senior citizens, maintaining independent mobility and balance is essential for quality of life. Age-related muscle loss (sarcopenia) and vestibular decline increase the risk of accidental falls.\n\n### Fall Prevention Exercises for Elderly Adults:\n1. **Chair Sit-to-Stands**: Builds fundamental quadriceps and gluteal strength required for standing up without hands.\n2. **Tandem Stance (Heel-to-Toe Standing)**: Enhances balance by narrowing the base of support while holding a sturdy rail.\n3. **Single Leg Stance with Support**: Trains hip stabilizer muscles (Gluteus Medius).\n4. **Gait Retraining & Assistive Device Fitting**: Proper customization of walking canes or walkers to ensure safe biomechanics.\n\n*At CARE PHYSIOTHERAPY CLINIC, we specialize in gentle geriatric neuro-rehab and fall prevention programs.*"
+    }
+  ]
+}
