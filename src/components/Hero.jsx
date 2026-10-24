@@ -96,7 +96,7 @@ export default function Hero({ clinicInfo, doctors, onOpenAppointment }) {
 
                 <div className="absolute top-3 left-3 bg-slate-900/90 backdrop-blur-md text-white px-3 py-1 rounded-full text-xs font-bold flex items-center gap-1.5 shadow-md">
                   <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-400" />
-                  <span>5.0 (250+ Ratings)</span>
+                  <span>5.0 (70+ Google Reviews)</span>
                 </div>
 
                 <div className="absolute top-3 right-3 bg-emerald-600 text-white px-2.5 py-1 rounded-full text-[10px] font-extrabold uppercase tracking-wide shadow-md">

@@ -74,3 +74,11 @@
 ::-webkit-scrollbar-thumb:hover {
   background: #008B9B;
 }
+
+/* Hide third-party promo links in reviews widget */
+.react-google-reviews-wrapper a[href*="featurable"],
+.react-google-reviews-wrapper [class*="branding"],
+.react-google-reviews-wrapper [class*="Branding"] {
+  display: none !important;
+}
+

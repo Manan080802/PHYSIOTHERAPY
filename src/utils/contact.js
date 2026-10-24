@@ -40,3 +40,13 @@ export const openWhatsAppChat = (customMessage = "") => {
   const waUrl = `https://wa.me/${cleanNumber}?text=${msgText}`;
   window.open(waUrl, '_blank');
 };
+
+export const getClinicGoogleReviewsUrl = () => {
+  return import.meta.env.VITE_CLINIC_WRITE_REVIEW_URL || import.meta.env.VITE_CLINIC_GOOGLE_REVIEW_URL || getClinicMapsUrl();
+};
+
+export const openGoogleReviewPage = () => {
+  const url = getClinicGoogleReviewsUrl();
+  window.open(url, '_blank', 'noopener,noreferrer');
+};
+
